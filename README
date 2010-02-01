@@ -1,0 +1,4 @@
+Requires the twython twitter module for python which can be obtained here: http://github.com/ryanmcgrath/twython. Also requires isightcapture which can be downloaded from here: http://www.macupdate.com/info.php/id/18598. 
+
+Running:
+Run twitterpicture.py USERNAME and enter your twitter password. When authenticated, type in your tweet and smile! 
